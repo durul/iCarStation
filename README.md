@@ -8,7 +8,7 @@ iCarStation lets you track your car, when you left you car at the anywhere. iCar
 
 Also, If paid parking time, define the amount of time to implement. The application will notify you when the time expires automatically.
 
-##Features:
+## Features:
 * Manage your car's park details.
 * Locate your current position using your device's location services (GPS, etc.),
 * Save your position with one click of a button, 
@@ -25,7 +25,7 @@ This app is available in the [AppStore](https://itunes.apple.com/tr/app/icarstat
 
 
 
-##Setup
+## Setup
 * Run ```pod install```
 * Run ```open icarstationserver.xcworkspace```
 
@@ -34,11 +34,11 @@ Current version is compatible with:
 * iOS 8.0 or later
 
 
-#Contribute
+## Contribute
 Want to contribute? I would really appreciate it.
 
 
-#MIT License
+## MIT License
 Copyright (c) 2017 Durul Dalkanat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
