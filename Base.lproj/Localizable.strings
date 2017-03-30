@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  icarstationserver
+
+  Created by durul on 02/02/14.
+  Copyright (c) 2014 durul dalkanat. All rights reserved.
+*/
+
+"Memory Problem" = "Memory Problem";
+
+"Can't mail" = "Can't Mail";
+
+"This device is not able to send e-mail" = "This Device Is Not Able To send E-mail";
+
+"Mail error" = "Mail error";
+
+"My Car is Here" = "My Car is Here";
+
+"Please Close Some Applications!" = "Please Close Some Applications!";
+
+"Cancel" = "Cancel";
+
+"Facebook" = "Facebook";
+
+"Twitter" = "Twitter";
+
+"Give a Rate" = "Give a Rate";
+
+"Send Gifts" = "Send Gifts";
+
+"Tell a Friend" = "Tell a Friend";
+
+"Gift This App" = "Gift This App";
+
+"Gift" = "Gift";
+
+"Rate This App" = "Rate This App";
+
+"Rate" = "Rate";
+
+"No, Thanks" = "No, Thanks";
+
+"If you enjoy using, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+
+"Please Update Time by Settings Page" = "Please Update Time by Settings Page";
+
+"Park Time Schedule Start" = "Park Time Schedule Start";
+
+"Park Time Scheduled End" = "Park Time Scheduled End";
+
+"Welcome to iCarStation" = "Welcome to iCarStation";
+
+"Parking Time" = "Parking Time";
+
+"Features" = "Features";
+
+"iCarStation will always remember Where you left the car parked. When You left you car at the anywhere. iCarStation saves the position, zone, block." = "iCarStation will always remember Where you left the car parked. When You left you car at the anywhere. iCarStation saves the position, zone, block.";
+
+"If paid parking time. Define the amount of time to implement. The application will notify you when the time expires automatically." = "If paid parking time. Define the amount of time to implement. The application will notify you when the time expires automatically.";
+
+"Save your parked car at the carpark or street. Locate your current position using your devices location services (GPS, etc.), Save your position with one click of a button, Save your rating of customer" = "Save your parked car at the carpark or street. Locate your current position using your devices location services (GPS, etc.), Save your position with one click of a button, Save your rating of customer";
+
+"Save a typed picture about the location of your car, Search functions, Recall your last locations where you parked your car and Map directions from your current location to any previously saved location.!" = "Save a typed picture about the location of your car, Search functions, Recall your last locations where you parked your car and Map directions from your current location to any previously saved location.!";

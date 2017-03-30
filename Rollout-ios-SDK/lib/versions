@@ -1,0 +1,5 @@
+# The file is sourced by bash, so the only expressions allowed are assignments without spaces
+build=26
+lib=0.5.1
+api=1.2.0
+mode=production

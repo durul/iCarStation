@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  icarstationserver
+
+  Created by durul on 02/02/14.
+  Copyright (c) 2014 durul dalkanat. All rights reserved.
+*/
+
+"Memory Problem" = "Speicher-Problem";
+
+"Can't mail" = "Nicht Mail";
+
+"This device is not able to send e-mail" = "Dieses Gerät Ist Nicht In Der Lage, E-Mail Senden";
+
+"Mail error" = "E-Mail Fehler";
+
+"My Car is Here" = "Mein Auto ist hier";
+
+"Please Close Some Applications!" = "Schließen Sie einige Anwendungen!";
+
+"Cancel" = "Abbrechen";
+
+"Facebook" = "Facebook";
+
+"Twitter" = "Twitter";
+
+"Give a Rate" = "Geben Sie einen Preis";
+
+"Send Gifts" = "Senden Sie Geschenke";
+
+"Tell a Friend" = "An einen Freund senden";
+
+"Gift This App" = "Ce cadeau App";
+
+"Gift" = "Geschenk";
+
+"Rate This App" = "Bewerten App";
+
+"Rate" = "Auswertung";
+
+"No, Thanks" = "Nein, Danke";
+
+"If you enjoy using, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Wenn Sie gerne mit, würde es Ihnen etwas ausmachen, die einen Moment, um es zu bewerten? Es wird nicht mehr als eine Minute dauern. Vielen Dank für Ihre Unterstützung!";
+
+"Please Update Time by Settings Page" = "Bitte aktualisiere Time von Einstellungen Page";
+
+"Park Time Schedule Start" = "Park Zeitplan Starten";
+
+"Park Time Scheduled End" = "Park Zeitplan Fertig";
+
+"Welcome to iCarStation" = "Willkommen auf iCarStation";
+
+"Parking Time" = "Parkzeit";
+
+"Features" = "Eigenschaften";
+
+"iCarStation will always remember Where you left the car parked. When You left you car at the anywhere. iCarStation saves the position, zone, block." = "iCarStation wird immer daran erinnern, wo Sie das Auto nach links geparkt. Wenn Sie Ihr Auto verlassen an der überall. iCarStation speichert die Position, Zonen-Block.";
+
+"If paid parking time. Define the amount of time to implement. The application will notify you when the time expires automatically." = "Wenn bezahlte Parkzeit. Definieren Sie die Höhe der Zeit zu implementieren. Die Anwendung benachrichtigt Sie, wenn die Zeit abgelaufen ist automatisch.";
+
+"Save your parked car at the carpark or street. Locate your current position using your devices location services (GPS, etc.), Save your position with one click of a button, Save your rating of customer" = "Speichern Sie Ihre geparkten Auto auf dem Parkplatz oder die Straße. Suchen Sie Ihre aktuelle Position mit Ihrem Geräte Ortungsdienste (GPS, etc.), Speichern Sie Ihre Position mit einem Klick auf eine Schaltfläche, Speichern Sie Ihre Bewertung der Kunden";
+
+"Save a typed picture about the location of your car, Search functions, Recall your last locations where you parked your car and Map directions from your current location to any previously saved location.!" = "Speichern Sie eine typisierte Bild über den Standort des Autos, Suchfunktionen, Recall Ihrer letzten Orte, an denen Sie Ihr Auto und Karte zu beliebigen zuvor gespeicherte Position geparkt von Ihrem aktuellen Standort!";

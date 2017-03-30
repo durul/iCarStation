@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  icarstationserver
+
+  Created by durul on 02/02/14.
+  Copyright (c) 2014 durul dalkanat. All rights reserved.
+*/
+
+"Memory Problem" = "Hafıza Problemi";
+
+"Can't mail" = "Postalayamıyoruz";
+
+"This device is not able to send e-mail" = "Bu Cihazdan, E-posta Göndermek Mümkün Değil";
+
+"Mail error" = "E-posta hatası";
+
+"My Car is Here" = "Arabam Burada";
+
+"Please Close Some Applications!" = "Bazı uygulamaları kapatın!";
+
+"Cancel" = "İptal";
+
+"Facebook" = "Facebook";
+
+"Twitter" = "Twitter";
+
+"Give a Rate" = "Oy verin";
+
+"Send Gifts" = "Hediye Gönder";
+
+"Tell a Friend" = "Arkadaşlarla Paylaş";
+
+"Gift This App" = "Hediye Et";
+
+"Gift" = "Hediye";
+
+"Rate This App" = "Uygulamayı Değerlendir";
+
+"Rate" = "Değerlendirme";
+
+"No, Thanks" = "Hayır";
+
+"If you enjoy using, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Eğer kullanmaktan memnun kaldıysanız, bunu değerlendirmek için bir dakikanızı almamızın sakıncası olur? Bu bir dakikadan fazla sürmez. Desteğiniz için teşekkürler!";
+
+"Please Update Time by Settings Page" = "Lütfen ayarlar sayfasını güncelleyin.";
+
+"Park Time Schedule Start" = "Park Zaman Çizelgesi Başlangıç";
+
+"Park Time Scheduled End" = "Park Zaman Çizelgesi Bitiş";
+
+"Welcome to iCarStation" = "iCarStation'a Hoşgeldiniz";
+
+"Parking Time" = "Park Süresi";
+
+"Features" = "Özellikler";
+
+"iCarStation will always remember Where you left the car parked. When You left you car at the anywhere. iCarStation saves the position, zone, block." = "iCarStation aracınızı nereye park ettiğiniz daima hatırlayacaktır. Aracınız nereye parak ederseniz edin, yerini kayıt edebileceksiniz.";
+
+"If paid parking time. Define the amount of time to implement. The application will notify you when the time expires automatically." = "Park süresini uygulmaya girebilirisiniz. Park süreniz dolduğunda iCarStation sürenin dolduğunu hatırlatacaktır.";
+
+"Save your parked car at the carpark or street. Locate your current position using your devices location services (GPS, etc.), Save your position with one click of a button, Save your rating of customer" = "Otopark ya da sokakta park edilmiş araç kaydedin. Cihazlarınızın konum servisleri (GPS, vb) kullanarak mevcut konumunuzu bulun, bir düğmeye tek bir tıklama ile konumunu kaydedin, müşteri puanınızı kaydet";
+
+"Save a typed picture about the location of your car, Search functions, Recall your last locations where you parked your car and Map directions from your current location to any previously saved location.!" = "Aracınızı park ettiğiniz yerin fotoğrafını çekebilir, Parkyerindeki araçların listesinde plakaya göre arama yapabilir, en son park ettiğiniz yeri kayıt edebilir. Harita üzerinde aracı park ettiğiniz yerin rotasına erişebilirsiniz.";

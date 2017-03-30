@@ -1,0 +1,150 @@
+
+/* Class = "IBUINavigationItem"; title = "Models Detail"; ObjectID = "0Az-xr-Lyj"; */
+"0Az-xr-Lyj.title" = "Araç Detay";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2Mg-Nn-u1n"; */
+"2Mg-Nn-u1n.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Models"; ObjectID = "2gJ-wJ-Ret"; */
+"2gJ-wJ-Ret.title" = "Araçlar";
+
+/* Class = "IBUITextField"; placeholder = "Check Out"; ObjectID = "43K-tI-2hh"; */
+"43K-tI-2hh.placeholder" = "Çıkış";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Model Name"; ObjectID = "5mY-3H-OHs"; */
+"5mY-3H-OHs.headerTitle" = "Markası";
+
+/* Class = "IBUITextField"; placeholder = "Zone"; ObjectID = "5nq-0u-AuC"; */
+"5nq-0u-AuC.placeholder" = "Bölge";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Check Out"; ObjectID = "6qU-lF-y79"; */
+"6qU-lF-y79.headerTitle" = "Çıkış";
+
+/* Class = "IBUINavigationItem"; title = "Car's Model"; ObjectID = "7Fg-Lo-rrR"; */
+"7Fg-Lo-rrR.title" = "Araç Bilgileri";
+
+/* Class = "IBUINavigationItem"; title = "Socials"; ObjectID = "9v5-Mi-Eyt"; */
+"9v5-Mi-Eyt.title" = "Sosyal";
+
+/* Class = "IBUINavigationItem"; title = "Park Location"; ObjectID = "A5R-Pt-7kF"; */
+"A5R-Pt-7kF.title" = "Park Lokasyonu";
+
+/* Class = "IBUIButton"; normalTitle = "Pick from album"; ObjectID = "ANt-zL-nHT"; */
+"ANt-zL-nHT.normalTitle" = "Album'den Seç";
+
+/* Class = "IBUITextField"; placeholder = "Blocks"; ObjectID = "Ccy-dh-ogb"; */
+"Ccy-dh-ogb.placeholder" = "Blok";
+
+/* Class = "IBUITabBarItem"; title = "Map"; ObjectID = "EZD-kx-chp"; */
+"EZD-kx-chp.title" = "Harita";
+
+/* Class = "IBUITabBarItem"; title = "Car Station"; ObjectID = "JkG-77-JkG"; */
+"JkG-77-JkG.title" = "Park Yönetimi";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "LED-1v-lLG"; */
+"LED-1v-lLG.text" = "Altbaşlık";
+
+/* Class = "IBUILabel"; text = "direction"; ObjectID = "LnB-fw-GSN"; */
+"LnB-fw-GSN.text" = "Yön";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Ratings"; ObjectID = "Lpv-4T-KIG"; */
+"Lpv-4T-KIG.headerTitle" = "Puan";
+
+/* Class = "IBUINavigationItem"; title = "Car"; ObjectID = "NnX-cC-7be"; */
+"NnX-cC-7be.title" = "Araba";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "Pio-k1-eLC"; */
+"Pio-k1-eLC.text" = "Altbaşlık";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Model"; ObjectID = "QD8-U5-Rgu"; */
+"QD8-U5-Rgu.headerTitle" = "Araçlar";
+
+/* Class = "IBUILabel"; text = "swipe to remove"; ObjectID = "RUY-aO-fvi"; */
+"RUY-aO-fvi.text" = "Sil";
+
+/* Class = "IBUINavigationItem"; title = "Check Out"; ObjectID = "URd-gn-iV7"; */
+"URd-gn-iV7.title" = "Çıkış";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Blocks"; ObjectID = "Vxp-4O-lD9"; */
+"Vxp-4O-lD9.headerTitle" = "Blok";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Ticket"; ObjectID = "Xtp-64-lfj"; */
+"Xtp-64-lfj.headerTitle" = "Bilet";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "Xx8-jr-ryn"; */
+"Xx8-jr-ryn.text" = "Tarih";
+
+/* Class = "IBUITabBarItem"; title = "Models"; ObjectID = "acy-ik-CwQ"; */
+"acy-ik-CwQ.title" = "Araçlar";
+
+/* Class = "IBUITextField"; placeholder = "Model name"; ObjectID = "byE-rq-fBa"; */
+"byE-rq-fBa.placeholder" = "Markası";
+
+/* Class = "IBUITextField"; placeholder = "Name & Surname"; ObjectID = "ePs-rA-zO0"; */
+"ePs-rA-zO0.placeholder" = "İsim & Soyisim";
+
+/* Class = "IBUINavigationItem"; title = "Car Detail"; ObjectID = "ggy-en-xL0"; */
+"ggy-en-xL0.title" = "Araç Bilgileri";
+
+/* Class = "IBUITabBarItem"; title = "Social"; ObjectID = "giT-3F-gC3"; */
+"giT-3F-gC3.title" = "Sosyal";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "jjy-AY-x2u"; */
+"jjy-AY-x2u.text" = "Başlık";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Zone"; ObjectID = "kUe-S9-MDU"; */
+"kUe-S9-MDU.headerTitle" = "Bölge";
+
+/* Class = "IBUILabel"; text = "Zone"; ObjectID = "ley-0D-0N9"; */
+"ley-0D-0N9.text" = "Bölge";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "mrb-ur-FaF"; */
+"mrb-ur-FaF.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Model Name"; ObjectID = "odO-SL-4Ee"; */
+"odO-SL-4Ee.text" = "Markası";
+
+/* Class = "IBUITextField"; placeholder = "Plate"; ObjectID = "op1-0w-RvL"; */
+"op1-0w-RvL.placeholder" = "Plaka";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "pkk-E1-lQi"; */
+"pkk-E1-lQi.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; normalTitle = "Take a Photo"; ObjectID = "qLd-Xq-43z"; */
+"qLd-Xq-43z.normalTitle" = "Fotoğraf";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "qt1-NX-QtR"; */
+"qt1-NX-QtR.text" = "Başlık";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "s0m-QS-LFN"; */
+"s0m-QS-LFN.text" = "Altbaşlık";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "shP-8v-aq0"; */
+"shP-8v-aq0.text" = "Başlık";
+
+/* Class = "IBUILabel"; text = "Please Write Details And Click !"; ObjectID = "swO-hq-VX7"; */
+"swO-hq-VX7.text" = "Araç bilgilerini yazıp, bilet'a basın.!";
+
+/* Class = "IBUITextField"; placeholder = "Ratings"; ObjectID = "tjR-lf-IlJ"; */
+"tjR-lf-IlJ.placeholder" = "Puan";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Image"; ObjectID = "ugk-KV-k65"; */
+"ugk-KV-k65.headerTitle" = "Resim";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Car Details"; ObjectID = "wat-EQ-xX3"; */
+"wat-EQ-xX3.headerTitle" = "Araç Detayları";
+
+/* Class = "IBUINavigationItem"; title = "Map"; ObjectID = "ybM-U2-qik"; */
+"ybM-U2-qik.title" = "Harita";
+
+/* Class = "IBUILabel"; text = "Hourly Rate"; ObjectID = "2R3-ya-wxk"; */
+"2R3-ya-wxk.text" = "Saat Ücreti";
+
+/* Class = "IBUILabel"; text = "Minutes"; ObjectID = "aDU-Ub-m64"; */
+"aDU-Ub-m64.text" = "Dakika";
+
+/* Class = "IBUILabel"; text = "Discount"; ObjectID = "yjK-gW-L3n"; */
+"yjK-gW-L3n.text" = "Indirim";
+
+/* Class = "IBUIButton"; normalTitle = "Calculate"; ObjectID = "5E0-2M-nHa"; */
+"5E0-2M-nHa.normalTitle" = "Hesapla";

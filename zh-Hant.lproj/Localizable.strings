@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  icarstationserver
+
+  Created by durul on 02/02/14.
+  Copyright (c) 2014 durul dalkanat. All rights reserved.
+*/
+
+"Memory Problem" = "內存問題";
+
+"Can't mail" = "不能郵寄";
+
+"This device is not able to send e-mail" = "此設備是不能夠發送電子郵件";
+
+"Mail error" = "郵件錯誤";
+
+"My Car is Here" = "我的車就在這裡";
+
+"Please Close Some Applications!" = "請關閉一些應用程序";
+
+"Cancel" = "取消";
+
+"Facebook" = "Facebook";
+
+"Twitter" = "Twitter";
+
+"Give a Rate" = "給予評分";
+
+"Send Gifts" = "送好禮";
+
+"Tell a Friend" = "推薦給朋友";
+
+"Gift This App" = "禮品此應用";
+
+"Gift" = "禮物";
+
+"Rate This App" = "給這個程序";
+
+"Rate" = "率";
+
+"No, Thanks" = "不，謝謝";
+
+"If you enjoy using, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "如果你喜歡使用，你會介意一點時間來評價呢？這將不會超過一分鐘。感謝您的支持!";
+
+"Please Update Time by Settings Page" = "通過設置頁面請更新時間";
+
+"Park Time Schedule Start" = "公園時間計劃開始";
+
+"Park Time Scheduled End" = "公園時間如期結束";
+
+"Welcome to iCarStation" = "歡迎 iCarStation";
+
+"Parking Time" = "停車時間";
+
+"Features" = "產品特點";
+
+"iCarStation will always remember Where you left the car parked. When You left you car at the anywhere. iCarStation saves the position, zone, block." = "應用程序會永遠記得你離開車子停。當你離開你的車在任何地方。應用程序保存的位置，區域，區塊。";
+
+
+"If paid parking time. Define the amount of time to implement. The application will notify you when the time expires automatically." = "如果支付的停車時間。定義的時間量來實現。當時間自動過期的應用程序會通知您。";
+
+"Save your parked car at the carpark or street. Locate your current position using your devices location services (GPS, etc.), Save your position with one click of a button, Save your rating of customer" = "保存您的車停放在停車場或街道。使用您的設備定位服務（GPS）定位您的當前位置保存一個按鈕，點擊你的位置，保存你的客戶的評價";
+
+"Save a typed picture about the location of your car, Search functions, Recall your last locations where you parked your car and Map directions from your current location to any previously saved location.!" = "節省你的車的位置的類型圖片，搜索功能，回想你停你的車，地圖方向從當前位置到之前保存的位置你的最後位置!";

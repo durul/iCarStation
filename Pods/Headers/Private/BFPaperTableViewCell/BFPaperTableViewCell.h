@@ -1,0 +1,1 @@
+../../../BFPaperTableViewCell/Classes/BFPaperTableViewCell.h

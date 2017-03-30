@@ -1,0 +1,55 @@
+PODS:
+  - BFPaperTableViewCell (2.3.4):
+    - UIColor+BFPaperColors
+  - Branch (0.12.3):
+    - Branch/Core (= 0.12.3)
+    - Branch/without-IDFA (= 0.12.3)
+  - Branch/Core (0.12.3)
+  - Branch/without-IDFA (0.12.3)
+  - CocoaLumberjack (2.3.0):
+    - CocoaLumberjack/Default (= 2.3.0)
+    - CocoaLumberjack/Extensions (= 2.3.0)
+  - CocoaLumberjack/Core (2.3.0)
+  - CocoaLumberjack/Default (2.3.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.3.0):
+    - CocoaLumberjack/Default
+  - FlurrySDK (6.7.0):
+    - FlurrySDK/FlurrySDK (= 6.7.0)
+  - FlurrySDK/FlurrySDK (6.7.0)
+  - Harpy (3.4.10)
+  - IQDropDownTextField (1.1.0)
+  - iRate (1.11.4)
+  - iVersion (1.11.4)
+  - Optimizely-iOS-SDK (1.5.0)
+  - PassSlot (0.7)
+  - UIColor+BFPaperColors (1.7.2)
+
+DEPENDENCIES:
+  - BFPaperTableViewCell
+  - Branch
+  - CocoaLumberjack
+  - FlurrySDK
+  - Harpy
+  - IQDropDownTextField
+  - iRate
+  - iVersion
+  - Optimizely-iOS-SDK
+  - PassSlot
+
+SPEC CHECKSUMS:
+  BFPaperTableViewCell: cbd20bcae648f3daf766e4e7632eed5d2041287d
+  Branch: eced5b5201554811ecb039c74f9913b72caf6cc5
+  CocoaLumberjack: 97fab7ee5f507fe54445cca7ea80f926729cfd15
+  FlurrySDK: ea03fd78ffb32886e26c9b7634ff0d8cb18dcd55
+  Harpy: 5c40c58072143996e12d185aed2f4dbcc4cda2c2
+  IQDropDownTextField: 614f79ca905529c992045eaa112d0fc9ebb875d1
+  iRate: 599ed07c854e0695f3c605d1b2a64c67d912acb7
+  iVersion: 2b6ffe708672cb494ba3cab150a94800c2892e81
+  Optimizely-iOS-SDK: 0b252a65b8cf6895b2564016e795d122b37b04eb
+  PassSlot: b28b719efa4ba418ca757d2b3006dc789410d492
+  UIColor+BFPaperColors: 03101fe6c10ed00c6daae7c26553f1de41500853
+
+PODFILE CHECKSUM: 84ebff02c91d62aca5f4891506fc2fabe6df98f3
+
+COCOAPODS: 1.0.1

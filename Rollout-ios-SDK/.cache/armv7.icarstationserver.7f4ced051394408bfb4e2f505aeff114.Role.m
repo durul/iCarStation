@@ -1,0 +1,1 @@
+[{"symbol":"Role","kind":"ObjCImplementationDecl","children":[]}]

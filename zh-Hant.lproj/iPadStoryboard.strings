@@ -1,0 +1,138 @@
+
+/* Class = "IBUINavigationItem"; title = "Models Detail"; ObjectID = "0Az-xr-Lyj"; */
+"0Az-xr-Lyj.title" = "機型詳細資料";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2Mg-Nn-u1n"; */
+"2Mg-Nn-u1n.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Models"; ObjectID = "2gJ-wJ-Ret"; */
+"2gJ-wJ-Ret.title" = "車型";
+
+/* Class = "IBUITextField"; placeholder = "Check Out"; ObjectID = "43K-tI-2hh"; */
+"43K-tI-2hh.placeholder" = "退房日期";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Model Name"; ObjectID = "5mY-3H-OHs"; */
+"5mY-3H-OHs.headerTitle" = "型號名稱";
+
+/* Class = "IBUITextField"; placeholder = "Zone"; ObjectID = "5nq-0u-AuC"; */
+"5nq-0u-AuC.placeholder" = "區";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Check Out"; ObjectID = "6qU-lF-y79"; */
+"6qU-lF-y79.headerTitle" = "退房日期";
+
+/* Class = "IBUINavigationItem"; title = "Car's Model"; ObjectID = "7Fg-Lo-rrR"; */
+"7Fg-Lo-rrR.title" = "汽車的型號";
+
+/* Class = "IBUINavigationItem"; title = "Socials"; ObjectID = "9v5-Mi-Eyt"; */
+"9v5-Mi-Eyt.title" = "社會的";
+
+/* Class = "IBUINavigationItem"; title = "Park Location"; ObjectID = "A5R-Pt-7kF"; */
+"A5R-Pt-7kF.title" = "公園位置";
+
+/* Class = "IBUIButton"; normalTitle = "Pick from album"; ObjectID = "ANt-zL-nHT"; */
+"ANt-zL-nHT.normalTitle" = "從相冊中挑選";
+
+/* Class = "IBUITextField"; placeholder = "Blocks"; ObjectID = "Ccy-dh-ogb"; */
+"Ccy-dh-ogb.placeholder" = "複雜";
+
+/* Class = "IBUITabBarItem"; title = "Map"; ObjectID = "EZD-kx-chp"; */
+"EZD-kx-chp.title" = "地圖";
+
+/* Class = "IBUITabBarItem"; title = "Car Station"; ObjectID = "JkG-77-JkG"; */
+"JkG-77-JkG.title" = "租車站";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "LED-1v-lLG"; */
+"LED-1v-lLG.text" = "字幕";
+
+/* Class = "IBUILabel"; text = "direction"; ObjectID = "LnB-fw-GSN"; */
+"LnB-fw-GSN.text" = "方向";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Ratings"; ObjectID = "Lpv-4T-KIG"; */
+"Lpv-4T-KIG.headerTitle" = "等級";
+
+/* Class = "IBUINavigationItem"; title = "Car"; ObjectID = "NnX-cC-7be"; */
+"NnX-cC-7be.title" = "汽车";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "Pio-k1-eLC"; */
+"Pio-k1-eLC.text" = "字幕";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Model"; ObjectID = "QD8-U5-Rgu"; */
+"QD8-U5-Rgu.headerTitle" = "模型";
+
+/* Class = "IBUILabel"; text = "swipe to remove"; ObjectID = "RUY-aO-fvi"; */
+"RUY-aO-fvi.text" = "輕掃刪除";
+
+/* Class = "IBUINavigationItem"; title = "Check Out"; ObjectID = "URd-gn-iV7"; */
+"URd-gn-iV7.title" = "退房日期";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Blocks"; ObjectID = "Vxp-4O-lD9"; */
+"Vxp-4O-lD9.headerTitle" = "複雜";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Ticket"; ObjectID = "Xtp-64-lfj"; */
+"Xtp-64-lfj.headerTitle" = "票";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "Xx8-jr-ryn"; */
+"Xx8-jr-ryn.text" = "日期";
+
+/* Class = "IBUITabBarItem"; title = "Models"; ObjectID = "acy-ik-CwQ"; */
+"acy-ik-CwQ.title" = "車型";
+
+/* Class = "IBUITextField"; placeholder = "Model name"; ObjectID = "byE-rq-fBa"; */
+"byE-rq-fBa.placeholder" = "型號名稱";
+
+/* Class = "IBUITextField"; placeholder = "Name & Surname"; ObjectID = "ePs-rA-zO0"; */
+"ePs-rA-zO0.placeholder" = "姓名";
+
+/* Class = "IBUINavigationItem"; title = "Car Detail"; ObjectID = "ggy-en-xL0"; */
+"ggy-en-xL0.title" = "汽車細節";
+
+/* Class = "IBUITabBarItem"; title = "Social"; ObjectID = "giT-3F-gC3"; */
+"giT-3F-gC3.title" = "社會的";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "jjy-AY-x2u"; */
+"jjy-AY-x2u.text" = "標題";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Zone"; ObjectID = "kUe-S9-MDU"; */
+"kUe-S9-MDU.headerTitle" = "區";
+
+/* Class = "IBUILabel"; text = "Zone"; ObjectID = "ley-0D-0N9"; */
+"ley-0D-0N9.text" = "區";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "mrb-ur-FaF"; */
+"mrb-ur-FaF.normalTitle" = "鈕";
+
+/* Class = "IBUILabel"; text = "Model Name"; ObjectID = "odO-SL-4Ee"; */
+"odO-SL-4Ee.text" = "型號名稱";
+
+/* Class = "IBUITextField"; placeholder = "License plate"; ObjectID = "op1-0w-RvL"; */
+"op1-0w-RvL.placeholder" = "牌照";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "pkk-E1-lQi"; */
+"pkk-E1-lQi.normalTitle" = "鈕";
+
+/* Class = "IBUIButton"; normalTitle = "Take a Photo"; ObjectID = "qLd-Xq-43z"; */
+"qLd-Xq-43z.normalTitle" = "拍照";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "qt1-NX-QtR"; */
+"qt1-NX-QtR.text" = "標題";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "s0m-QS-LFN"; */
+"s0m-QS-LFN.text" = "字幕";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "shP-8v-aq0"; */
+"shP-8v-aq0.text" = "標題";
+
+/* Class = "IBUILabel"; text = "Please Write Details And Click !"; ObjectID = "swO-hq-VX7"; */
+"swO-hq-VX7.text" = "請填寫詳細信息並單擊";
+
+/* Class = "IBUITextField"; placeholder = "Ratings"; ObjectID = "tjR-lf-IlJ"; */
+"tjR-lf-IlJ.placeholder" = "等級";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Image"; ObjectID = "ugk-KV-k65"; */
+"ugk-KV-k65.headerTitle" = "圖像";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Car Details"; ObjectID = "wat-EQ-xX3"; */
+"wat-EQ-xX3.headerTitle" = "車詳細說明";
+
+/* Class = "IBUINavigationItem"; title = "Map"; ObjectID = "ybM-U2-qik"; */
+"ybM-U2-qik.title" = "地圖";

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.0</key>
+	<array>
+		<string>First release</string>
+	</array>
+	<key>2.0</key>
+	<array>
+		<string>Passbook Integration</string>
+		<string>Location Management Update</string>
+		<string>User Interface Update</string>
+		<string>Map Features</string>
+		<string>Push Notifications</string>
+	</array>
+	<key>3.0</key>
+	<array>
+		<string>User Interface Update</string>
+		<string>Share location by e-mail</string>
+		<string>Multi Language Support</string>
+		<string>Radium One Support</string>
+		<string>iPad</string>
+	</array>
+	<key>4.0</key>
+	<array>
+		<string>Hourly Rate Calculator</string>
+		<string>Bug Fix</string>
+		<string>Parking capacity control</string>
+	</array>
+	<key>5.0</key>
+	<array>
+		<string>AddressBook Integration</string>
+		<string>iOS8 Integration</string>
+		<string>Region monitoring Update</string>
+		<string>Bug Fix</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1 @@
+[{"symbol":"Person","kind":"ObjCImplementationDecl","children":[{"symbol":"initialize","file":"/Users/duruldalkanat/Desktop/iTunes/icarstationserver/icarstationserver/Person.m","line":22,"is_in_system_header":0,"return":{"file":"(null)","line":0,"is_in_system_header":0,"size":"-2","type":"void","kind":"Void","declared":"Invalid"},"args":[],"kind":"class"}]}]

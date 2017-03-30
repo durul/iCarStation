@@ -1,0 +1,138 @@
+
+/* Class = "IBUINavigationItem"; title = "Models Detail"; ObjectID = "0Az-xr-Lyj"; */
+"0Az-xr-Lyj.title" = "Modèles Détail";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2Mg-Nn-u1n"; */
+"2Mg-Nn-u1n.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Models"; ObjectID = "2gJ-wJ-Ret"; */
+"2gJ-wJ-Ret.title" = "Marque";
+
+/* Class = "IBUITextField"; placeholder = "Check Out"; ObjectID = "43K-tI-2hh"; */
+"43K-tI-2hh.placeholder" = "Quitter";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Model Name"; ObjectID = "5mY-3H-OHs"; */
+"5mY-3H-OHs.headerTitle" = "Nom de Marque";
+
+/* Class = "IBUITextField"; placeholder = "Zone"; ObjectID = "5nq-0u-AuC"; */
+"5nq-0u-AuC.placeholder" = "Zone";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Check Out"; ObjectID = "6qU-lF-y79"; */
+"6qU-lF-y79.headerTitle" = "Quitter";
+
+/* Class = "IBUINavigationItem"; title = "Car's Model"; ObjectID = "7Fg-Lo-rrR"; */
+"7Fg-Lo-rrR.title" = "Marque de Voiture";
+
+/* Class = "IBUINavigationItem"; title = "Socials"; ObjectID = "9v5-Mi-Eyt"; */
+"9v5-Mi-Eyt.title" = "Socials";
+
+/* Class = "IBUINavigationItem"; title = "Park Location"; ObjectID = "A5R-Pt-7kF"; */
+"A5R-Pt-7kF.title" = "Emplacement du Parc";
+
+/* Class = "IBUIButton"; normalTitle = "Pick from album"; ObjectID = "ANt-zL-nHT"; */
+"ANt-zL-nHT.normalTitle" = "De l'Album";
+
+/* Class = "IBUITextField"; placeholder = "Blocks"; ObjectID = "Ccy-dh-ogb"; */
+"Ccy-dh-ogb.placeholder" = "Blocs";
+
+/* Class = "IBUITabBarItem"; title = "Map"; ObjectID = "EZD-kx-chp"; */
+"EZD-kx-chp.title" = "Carte";
+
+/* Class = "IBUITabBarItem"; title = "Car Station"; ObjectID = "JkG-77-JkG"; */
+"JkG-77-JkG.title" = "Stationnement";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "LED-1v-lLG"; */
+"LED-1v-lLG.text" = "Sous-Titre";
+
+/* Class = "IBUILabel"; text = "direction"; ObjectID = "LnB-fw-GSN"; */
+"LnB-fw-GSN.text" = "Direction";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Ratings"; ObjectID = "Lpv-4T-KIG"; */
+"Lpv-4T-KIG.headerTitle" = "Classement";
+
+/* Class = "IBUINavigationItem"; title = "Car"; ObjectID = "NnX-cC-7be"; */
+"NnX-cC-7be.title" = "Voiture";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "Pio-k1-eLC"; */
+"Pio-k1-eLC.text" = "Sous-Titre";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Model"; ObjectID = "QD8-U5-Rgu"; */
+"QD8-U5-Rgu.headerTitle" = "Marque";
+
+/* Class = "IBUILabel"; text = "swipe to remove"; ObjectID = "RUY-aO-fvi"; */
+"RUY-aO-fvi.text" = "swipe to remove";
+
+/* Class = "IBUINavigationItem"; title = "Check Out"; ObjectID = "URd-gn-iV7"; */
+"URd-gn-iV7.title" = "Quitter";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Blocks"; ObjectID = "Vxp-4O-lD9"; */
+"Vxp-4O-lD9.headerTitle" = "Blocs";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Ticket"; ObjectID = "Xtp-64-lfj"; */
+"Xtp-64-lfj.headerTitle" = "Billet";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "Xx8-jr-ryn"; */
+"Xx8-jr-ryn.text" = "Date";
+
+/* Class = "IBUITabBarItem"; title = "Models"; ObjectID = "acy-ik-CwQ"; */
+"acy-ik-CwQ.title" = "Marques";
+
+/* Class = "IBUITextField"; placeholder = "Model name"; ObjectID = "byE-rq-fBa"; */
+"byE-rq-fBa.placeholder" = "Nom de Marque";
+
+/* Class = "IBUITextField"; placeholder = "Name & Surname"; ObjectID = "ePs-rA-zO0"; */
+"ePs-rA-zO0.placeholder" = "Nom et Prénom";
+
+/* Class = "IBUINavigationItem"; title = "Car Detail"; ObjectID = "ggy-en-xL0"; */
+"ggy-en-xL0.title" = "Détails Du Véhicule";
+
+/* Class = "IBUITabBarItem"; title = "Social"; ObjectID = "giT-3F-gC3"; */
+"giT-3F-gC3.title" = "Social";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "jjy-AY-x2u"; */
+"jjy-AY-x2u.text" = "Titre";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Zone"; ObjectID = "kUe-S9-MDU"; */
+"kUe-S9-MDU.headerTitle" = "Zone";
+
+/* Class = "IBUILabel"; text = "Zone"; ObjectID = "ley-0D-0N9"; */
+"ley-0D-0N9.text" = "Zone";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "mrb-ur-FaF"; */
+"mrb-ur-FaF.normalTitle" = "Bouton";
+
+/* Class = "IBUILabel"; text = "Model Name"; ObjectID = "odO-SL-4Ee"; */
+"odO-SL-4Ee.text" = "Nom de Marque";
+
+/* Class = "IBUITextField"; placeholder = "Plate"; ObjectID = "op1-0w-RvL"; */
+"op1-0w-RvL.placeholder" = "Plaque d'immatriculation";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "pkk-E1-lQi"; */
+"pkk-E1-lQi.normalTitle" = "Bouton";
+
+/* Class = "IBUIButton"; normalTitle = "Take a Photo"; ObjectID = "qLd-Xq-43z"; */
+"qLd-Xq-43z.normalTitle" = "Photo";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "qt1-NX-QtR"; */
+"qt1-NX-QtR.text" = "Titre";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "s0m-QS-LFN"; */
+"s0m-QS-LFN.text" = "Sous-Titre";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "shP-8v-aq0"; */
+"shP-8v-aq0.text" = "Titre";
+
+/* Class = "IBUILabel"; text = "Please Write Details And Click !"; ObjectID = "swO-hq-VX7"; */
+"swO-hq-VX7.text" = "Écrire détails et cliquez sur!";
+
+/* Class = "IBUITextField"; placeholder = "Ratings"; ObjectID = "tjR-lf-IlJ"; */
+"tjR-lf-IlJ.placeholder" = "Classement";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Image"; ObjectID = "ugk-KV-k65"; */
+"ugk-KV-k65.headerTitle" = "Image";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Car Details"; ObjectID = "wat-EQ-xX3"; */
+"wat-EQ-xX3.headerTitle" = "Détail de Voiture";
+
+/* Class = "IBUINavigationItem"; title = "Map"; ObjectID = "ybM-U2-qik"; */
+"ybM-U2-qik.title" = "Carte";
