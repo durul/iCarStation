@@ -3,9 +3,6 @@
 <p align="center" >Created by <a href="http://durul.github.io">Durul Dalkanat </a> (<a href="http://www.twitter.com/duruldalkanat">@duruldalkanat</a>)</p>
 
 
-![10259008_1487887371426253_2312292708400534789_o.png](quiver-image-url/255CB6979B0BAC42E7DFC759D4A7002E.png)
-
-
 ## iCarStation
 iCarStation lets you track your car, when you left you car at the anywhere. iCarStation saves the position, zone, block etc…
 
@@ -24,7 +21,7 @@ Also, If paid parking time, define the amount of time to implement. The applicat
 * Map directions from your current location to any previously saved location.
 * Calculate Offset Values
 
-This app is available in the [AppStore](https://itunes.apple.com/tr/app/icarstation/id720281578?mt=8). Learn more [here](http://www. icarstation.com).
+This app is available in the [AppStore](https://itunes.apple.com/tr/app/icarstation/id720281578?mt=8). Learn more [here](http://www.icarstation.com).
 
 
 
