@@ -1,12 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (3.2.19)
+    activesupport (3.2.22.5)
       i18n (~> 0.6, >= 0.6.4)
       multi_json (~> 1.0)
     colored (1.2)
-    i18n (0.6.11)
-    multi_json (1.10.1)
+    concurrent-ruby (1.1.10)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
+    multi_json (1.15.0)
     rake (13.0.1)
     xcodeproj (0.14.1)
       activesupport (~> 3.0)
